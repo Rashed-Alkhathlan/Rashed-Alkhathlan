@@ -67,11 +67,11 @@
   <a href="https://www.linkedin.com/in/Rashed-Alkhathlan">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.kaggle.com/rashedalkhathlan">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
 
-<a href="https://www.kaggle.com/rashedalkhathlan">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-</a>
 
 ---
 
