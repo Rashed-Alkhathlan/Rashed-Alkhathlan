@@ -1,4 +1,4 @@
-# Hi, I'm Rashed 👋
+# Hi, I'm Rashed
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence;Machine+Learning+Enthusiast;Always+Building+Something&center=true&width=500&height=50">
@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me
-🎓 Artificial Intelligence student  
-💻 Passionate about software engineering and machine learning  
-🧠 Interested in AI systems, LLMs, and real-world applications  
-⚙️ Always learning, building, and experimenting  
+- Artificial Intelligence student  
+- Passionate about software engineering and machine learning  
+- Interested in AI systems, LLMs, and real-world applications  
+- Always learning, building, and experimenting  
 
 ---
 
