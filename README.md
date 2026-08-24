@@ -1,7 +1,7 @@
 # Hi, I'm Rashed
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence;Machine+Learning+Enthusiast;Always+Building+Something&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Artificial+Intelligence;Machine+Learning+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
