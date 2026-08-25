@@ -65,7 +65,3 @@
 
 
 ---
-
-<p align="center">
-  💡 “Build. Break. Learn. Repeat.”
-</p>
